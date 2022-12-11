@@ -12,3 +12,5 @@ If you are interested in contact me 🥳 i would be so happy to talk with you. I
 
 
 📧 nacho23donaire@gmail.com
+
+Linkedin https://www.linkedin.com/in/nacho-donaire-980330230/
