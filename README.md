@@ -14,3 +14,5 @@ If you are interested in contact me 🥳 i would be so happy to talk with you. I
 📧 donairelena23@gmail.com
 
 Linkedin https://www.linkedin.com/in/nacho-donaire-980330230/
+
+[![ndonaire's 42 stats](https://badge42.vercel.app/api/v2/clcfbow1900160gjy4fdtdtnj/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
