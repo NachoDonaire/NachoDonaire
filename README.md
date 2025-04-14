@@ -1,18 +1,12 @@
-Hello! My name is Nacho and this is my GitHub profile 😃
+# Hi there 
 
-I'm currently student of 42 Madrid School since 2021.
+The presence of a computer makes me feel more confortable than without it. And that's it, I do not feel weird because
+if you are reading these the most probably is that you are like me but the content of the presence itself. In my case, computers
+fill this dimension, and I know more than one that have the same attribute
 
-I have notions of pyhton, MySQL, bash, C++, C and more technologies and code languages.
+This is my GitHub profile in which you can see my thoughts via code. C and C++ are home to me. Most of repositories are 
+projects proposed by 42. If you have ridden my code you will guess my favourite family of OS.
 
-The most valuable thing for me in this point is to keep growing up in IT world with a non stop learning method. 👾
+If you have some good ideas, thoughts or you want to contact me, you can write me an email:
 
-I love 💙 good coffee in the morning, play the guitar, spend thime with my friends and, of course, code; a lot of code.
-
-If you are interested in contact me 🥳 i would be so happy to talk with you. I let my contact just behind this text.
-
-
-📧 nacho23donaire@gmail.com
-
-Linkedin https://www.linkedin.com/in/nacho-donaire-980330230/
-
-[![ndonaire's 42 stats](https://badge42.vercel.app/api/v2/clcfbow1900160gjy4fdtdtnj/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
+nacho23donaire@gmail.com
