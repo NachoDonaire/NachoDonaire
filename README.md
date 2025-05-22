@@ -1,4 +1,4 @@
-<h1 align="center">🚀 José Ignacio Donaire – Building Beyond the Terminal</h1>
+<h1 align="center">🚀 Nacho Donaire Elena – Building Beyond the Terminal</h1>
 
 <p align="center">
   <strong>System-level developer | Open-source contributor | Efficiency maximalist</strong>
@@ -11,8 +11,6 @@
 I don't write code just to make things work.  
 I write code to make systems **fast, reliable, and elegant** – the kind that gets studied, reused, and improved.
 
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
-> — Martin Fowler
 
 ##  📂 Selected Contributions
 
