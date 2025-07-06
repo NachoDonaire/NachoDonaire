@@ -5,8 +5,8 @@ if you are reading these the most probably is that you are like me but the conte
 fill this dimension, and I know more than one that have the same attribute.
 
 Music is also important to me. Although, is the most ranged language for human nature as in my opinion. Music and code are the most valuable tools I know.
-This two disciplines need packages like logic, critical thinking, creativity, and use of both hemispheres of the brain. 
+This two disciplines need packages like logic, critical thinking, creativity, and use of both hemispheres of the brain.
 
-If you have some good ideas, thoughts or you want to contact me, you can write me an email:
+If you have some good ideas, thoughts or you want to contact me, I would be so glad of reading you. Honestly, do not hesitate:
 
 📧 nacho23donaire@gmail.com
